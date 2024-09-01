@@ -1,0 +1,35 @@
+Levando em consideração as informações fornecidas no documento, montarei um treino de 3 dias para uma pessoa com saúde sem comprometimentos, com doença de gravidade mediana, biotipo mesomorfo.
+
+Treino de 3 dias (Treino ABC):
+
+Dia A:
+- Exercícios Funcionais:
+  - Agachamento com Halteres
+  - Elevação Lateral com Halteres
+  - Remada Alta com Barra
+- Exercícios de Peso Livre:
+  - Supino Reto com Barra
+  - Desenvolvimento com Halteres
+  - Rosca Direta com Barra
+
+Dia B:
+- Exercícios Funcionais:
+  - Afundos com Halteres
+  - Abdominal Crunch
+  - Elevação de Quadril
+- Exercícios de Peso Livre:
+  - Agachamento Frontal com Barra
+  - Peso Morto com Barra
+  - Triceps Testa com Barra
+
+Dia C:
+- Exercícios Funcionais:
+  - Burpee
+  - Prancha Lateral
+  - Step-up com Halteres
+- Exercícios de Peso Livre:
+  - Levantamento Terra com Barra
+  - Remada Curvada com Barra
+  - Rosca Alternada com Halteres
+
+Observação: Por se tratar de uma pessoa com doença de gravidade mediana, o volume e a intensidade deste treino serão reduzidos à metade do recomendado para uma pessoa saudável.
