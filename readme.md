@@ -38,7 +38,7 @@ Este projeto visa criar um assistente de personal trainer automatizado que ajuda
 
 ## 📝 Possui doença e qual a gravidade
 
-A primeira regra determinar a atual situação da saúde da pessoa a receber o treino, caso não haja nenhuma doença, o treino não terá nenhuma restrição, caso seja indicado que a pessoa possui alguma doença e esta seja mediana, o treino deverá corresponder à metade do treino normal. Caso a situação seja grave, não poderá ser sujerido nenhum tipo de treino por não termos detalhes sobre essa gravidade. 
+A primeira regra é determinar a atual situação da saúde da pessoa a receber o treino, caso não haja nenhuma doença, o treino não terá nenhuma restrição, caso seja indicado que a pessoa possui alguma doença e esta seja mediana, o treino deverá corresponder à metade do treino normal. Caso a situação seja grave, não poderá ser sujerido nenhum tipo de treino por não termos detalhes sobre essa gravidade. 
 
 ---
 
@@ -111,7 +111,7 @@ A quarta regra envolve a escolha do tipo de exercício preferido. Aqui estão al
 
 ## 🛠️ Regras de negócio
 
-1. **Possui alguma doença e a gravidade** identificando se possui ou não, e qual a gravidade.
+1. **Informe se possui alguma doença e a gravidade**.
 2. **Identifique seu biotipo corporal** consultando a seção de biotipos.
 3. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
 4. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
