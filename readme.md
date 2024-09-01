@@ -20,6 +20,7 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 
 - [📋 Índice](#-índice)
 - [📝 Introdução](#-introdução)
+- [📝 Possui doença e qual a gravidade](#-possui-doença-e-qual-a-gravidade)
 - [💪 Biotipos Corporais](#-biotipos-corporais)
 - [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
@@ -35,9 +36,15 @@ Este projeto visa criar um assistente de personal trainer automatizado que ajuda
 
 ---
 
+## 📝 Possui doença e qual a gravidade
+
+A primeira regra determinar a atual situação da saúde da pessoa a receber o treino, caso não haja nenhuma doença, o treino não terá nenhuma restrição, caso seja indicado que a pessoa possui alguma doença e esta seja mediana, o treino deverá corresponder à metade do treino normal. Caso a situação seja grave, não poderá ser sujerido nenhum tipo de treino por não termos detalhes sobre essa gravidade. 
+
+---
+
 ## 💪 Biotipos Corporais
 
-A primeira regra para personalizar o treino é determinar o biotipo corporal do usuário. Existem três biotipos principais:
+A segunda regra para personalizar o treino é determinar o biotipo corporal do usuário. Existem três biotipos principais:
 
 <table>
   <tr>
@@ -74,7 +81,7 @@ A primeira regra para personalizar o treino é determinar o biotipo corporal do 
 
 ## 📅 Dias Disponíveis para Treino
 
-A segunda regra é determinar quantos dias por semana o usuário tem disponível para treinar. Dependendo do número de dias, o treino sugerido pode variar:
+A terceira regra é determinar quantos dias por semana o usuário tem disponível para treinar. Dependendo do número de dias, o treino sugerido pode variar:
 
 | **Imagem**                                                     | **Dias por Semana** | **Tipo de Treino Sugerido** |
 | -------------------------------------------------------------- | ------------------- | --------------------------- |
@@ -90,7 +97,7 @@ A segunda regra é determinar quantos dias por semana o usuário tem disponível
 
 ## 🏋️ Tipos de Exercícios
 
-A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão algumas categorias com exemplos:
+A quarta regra envolve a escolha do tipo de exercício preferido. Aqui estão algumas categorias com exemplos:
 
 | **Imagem**                                                       | **Tipo de Treino** | **Descrição**                                                                                                 |
 | ---------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- |
@@ -104,10 +111,11 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 
 ## 🛠️ Regras de negócio
 
-1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
-2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
-3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
-4. Use o prompt do assistente para gerar um plano de treino personalizado.
+1. **Possui alguma doença e a gravidade** identificando se possui ou não, e qual a gravidade.
+2. **Identifique seu biotipo corporal** consultando a seção de biotipos.
+3. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
+4. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
+5. Use o prompt do assistente para gerar um plano de treino personalizado.
 
 ---
 
