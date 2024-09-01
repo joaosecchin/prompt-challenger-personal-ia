@@ -1,0 +1,15 @@
+Retorno do prompt de personal trainer T1
+
+--------------------
+
+Considerando as informações fornecidas no documento e as variáveis informadas, apresento a seguinte rotina de treinos:
+
+Tendo em vista que a pessoa possui uma doença grave, não é possível montar um treino para essa pessoa, conforme a Regra 1.
+
+De acordo com as regras, não é recomendado realizar nenhum tipo de treino para uma pessoa com doença grave, pois isso pode comprometer ainda mais a sua saúde.
+
+Portanto, neste caso, a recomendação é que a pessoa procure acompanhamento médico e siga as orientações dos profissionais de saúde responsáveis pelo tratamento de sua condição.
+
+Somente após a avaliação e liberação do médico, é que será possível elaborar um programa de exercícios adequado e seguro para essa pessoa.
+
+Sendo assim, não é possível criar uma rotina de treinos neste momento. O foco deve ser o tratamento e acompanhamento da saúde desta pessoa, visando a sua recuperação e o restabelecimento de sua condição.
